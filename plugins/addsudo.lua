@@ -4,10 +4,10 @@ vardump(success)
 vardump(result)
 end
 local function run(msg, matches)
-local user = ایدی خودتان
+local user = 98797942
 --مثال local user = 12345678
 if matches[1] == "addsudo" then
-user = 'user#id'..ایدی خودتان
+user = 'user#id'..98797942
 --مثال user = 'user#id'..12345678
 end
 if is_momod(msg) then
